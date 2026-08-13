@@ -1,0 +1,341 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ECharts",
+          "description": "A powerful charting and visualization library for browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T09:07:09Z",
+            "owner": "apache",
+            "repo": "echarts",
+            "stars": 67063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plotly",
+          "description": "Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T16:31:10Z",
+            "owner": "plotly",
+            "repo": "plotly.js",
+            "stars": 18284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lightweight-charts",
+          "description": "Financial lightweight charts built with HTML5 canvas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:55:01Z",
+            "owner": "tradingview",
+            "repo": "lightweight-charts",
+            "stars": 16947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apexcharts.js",
+          "description": "A JavaScript Chart Library with simple API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T07:36:50Z",
+            "owner": "apexcharts",
+            "repo": "apexcharts.js",
+            "stars": 15122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sigma.js",
+          "description": "Graphs / Network diagram library built with canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:19:46Z",
+            "owner": "jacomyal",
+            "repo": "sigma.js",
+            "stars": 12131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "μPlot",
+          "description": "A small (< 25 KB min), fast chart for time series, lines, areas, ohlc & bars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-22T01:06:38Z",
+            "owner": "leeoniya",
+            "repo": "uPlot",
+            "stars": 10407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chartkick",
+          "description": "JavaScript charts with one line of Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-29T04:45:41Z",
+            "owner": "ankane",
+            "repo": "chartkick",
+            "stars": 6527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dygraphs",
+          "description": "Interactive zoomable time series charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T00:39:44Z",
+            "owner": "danvk",
+            "repo": "dygraphs",
+            "stars": 3239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plottable",
+          "description": "Library with OOP style syntax to build charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-08T15:43:09Z",
+            "owner": "palantir",
+            "repo": "plottable",
+            "stars": 3108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smoothie Charts",
+          "description": "JavaScript charts for realtime streaming data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-08T10:09:30Z",
+            "owner": "joewalnes",
+            "repo": "smoothie",
+            "stars": 2277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickChart",
+          "description": "Web API that renders static chart images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-21T06:17:08Z",
+            "owner": "typpo",
+            "repo": "quickchart",
+            "stars": 2049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphosaurus",
+          "description": "3D graph viewer powered by WebGL (three.js)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-03T18:34:09Z",
+            "owner": "frewsxcv",
+            "repo": "graphosaurus",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EJSChart",
+          "description": "enterprise ready charting library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-02-03T16:45:47Z",
+            "owner": "EmpriseCorporation",
+            "repo": "EJSCharts",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uvCharts",
+          "description": "JavaScript Charting library built using d3.js",
+          "children": []
+        }
+      ],
+      "title": "Free and Open Source Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Framework-Specific Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "n3-charts",
+          "description": "Easy to use library written with AngularJS, rendering charts with D3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-01T20:13:41Z",
+            "owner": "n3-charts",
+            "repo": "line-chart",
+            "stars": 1196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular-scale",
+          "description": "Simple and lightweight library for creating line charts",
+          "children": []
+        }
+      ],
+      "title": "Angular"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nivo",
+          "description": "React components to easily build dataviz apps, built on top of D3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T02:46:40Z",
+            "owner": "plouc",
+            "repo": "nivo",
+            "stars": 14082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Victory",
+          "description": "A collection of composable React components for building interactive data visualizations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-19T23:11:18Z",
+            "owner": "FormidableLabs",
+            "repo": "victory",
+            "stars": 11243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-vis",
+          "description": "a composable visualization system by Uber",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-18T22:24:34Z",
+            "owner": "uber",
+            "repo": "react-vis",
+            "stars": 8786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-vis",
+          "description": "A collection of React components to render common data visualization charts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-18T22:24:34Z",
+            "owner": "uber",
+            "repo": "react-vis",
+            "stars": 8786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-chart-js",
+          "description": "React wrapper for Chart.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:54:32Z",
+            "owner": "reactchartjs",
+            "repo": "react-chartjs-2",
+            "stars": 6942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-d3",
+          "description": "Charting library that relies on React for generating SVG markup and d3 to calculate path values.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-06-07T08:22:56Z",
+            "owner": "esbullington",
+            "repo": "react-d3",
+            "stars": 1741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-muze",
+          "description": "React wrapper for muze (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-10-16T06:55:53Z",
+            "owner": "chartshq",
+            "repo": "react-muze",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "React"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:36:05.559Z",
+    "original_repository": "zingchart/awesome-charting",
+    "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
+    "enhanced_repository": "enhansome/enhansome-charting",
+    "enhanced_repository_description": null,
+    "title": "Awesome charting with stars"
+  }
+}
