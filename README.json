@@ -14,7 +14,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67063
+            "stars": 67070
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-09T16:31:10Z",
+            "last_commit": "2026-08-13T22:54:41Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18284
+            "stars": 18288
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-12T11:55:01Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 16947
+            "stars": 16957
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T07:36:50Z",
+            "last_commit": "2026-08-14T08:12:08Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15122
+            "stars": 15124
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T07:19:46Z",
+            "last_commit": "2026-08-14T10:16:46Z",
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12131
+            "stars": 12132
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-06-29T04:45:41Z",
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6527
+            "stars": 6528
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-07-21T02:46:40Z",
             "owner": "plouc",
             "repo": "nivo",
-            "stars": 14082
+            "stars": 14085
           }
         },
         {
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T00:54:32Z",
+            "last_commit": "2026-08-13T15:59:34Z",
             "owner": "reactchartjs",
             "repo": "react-chartjs-2",
             "stars": 6942
@@ -331,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:36:05.559Z",
+    "last_updated": "2026-08-14T10:33:15.224Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
     "enhanced_repository": "enhansome/enhansome-charting",
