@@ -14,7 +14,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67073
+            "stars": 67079
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T17:35:35Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18290
+            "stars": 18291
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-12T11:55:01Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 16966
+            "stars": 16969
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-15T05:02:17Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15126
+            "stars": 15127
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-14T16:25:34Z",
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12135
+            "stars": 12138
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-04-22T01:06:38Z",
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10408
+            "stars": 10411
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-06-29T04:45:41Z",
+            "last_commit": "2026-08-15T21:05:19Z",
             "owner": "ankane",
             "repo": "chartkick",
             "stars": 6528
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-29T00:39:44Z",
             "owner": "danvk",
             "repo": "dygraphs",
-            "stars": 3240
+            "stars": 3241
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2025-12-19T23:11:18Z",
             "owner": "FormidableLabs",
             "repo": "victory",
-            "stars": 11243
+            "stars": 11244
           }
         },
         {
@@ -331,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:50:06.704Z",
+    "last_updated": "2026-08-16T09:51:11.006Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
     "enhanced_repository": "enhansome/enhansome-charting",

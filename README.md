@@ -12,7 +12,7 @@ Brought to you by
 
 A declarative, efficient, and simple JavaScript library for building responsive charts
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,924 | 🐛 100 | 📅 2026-06-30 [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,308 | 🐛 100 | 📅 2026-06-30 [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
 **Table of Contents**
 
@@ -35,14 +35,14 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ## Free and Open Source Libraries
 
-* [ECharts](https://github.com/ecomfe/echarts) ⭐ 67,073 | 🐛 1,560 | 🌐 TypeScript | 📅 2026-08-04 - A powerful charting and visualization library for browser.
-* [Plotly](https://github.com/plotly/plotly.js) ⭐ 18,290 | 🐛 847 | 🌐 JavaScript | 📅 2026-08-14 - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
-* [lightweight-charts](https://github.com/tradingview/lightweight-charts) ⭐ 16,966 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-12 - Financial lightweight charts built with HTML5 canvas
-* [apexcharts.js](https://github.com/apexcharts/apexcharts.js) ⭐ 15,126 | 🐛 330 | 🌐 JavaScript | 📅 2026-08-15 - A JavaScript Chart Library with simple API.
-* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,135 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-14 - Graphs / Network diagram library built with canvas.
-* [μPlot](https://github.com/leeoniya/uPlot) ⭐ 10,408 | 🐛 149 | 🌐 JavaScript | 📅 2026-04-22 - A small (< 25 KB min), fast chart for time series, lines, areas, ohlc & bars.
-* [Chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-06-29 - JavaScript charts with one line of Ruby.
-* [dygraphs](https://github.com/danvk/dygraphs) ⭐ 3,240 | 🐛 264 | 🌐 JavaScript | 📅 2026-07-29 - Interactive zoomable time series charts.
+* [ECharts](https://github.com/ecomfe/echarts) ⭐ 67,079 | 🐛 1,559 | 🌐 TypeScript | 📅 2026-08-04 - A powerful charting and visualization library for browser.
+* [Plotly](https://github.com/plotly/plotly.js) ⭐ 18,291 | 🐛 848 | 🌐 JavaScript | 📅 2026-08-14 - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
+* [lightweight-charts](https://github.com/tradingview/lightweight-charts) ⭐ 16,969 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-12 - Financial lightweight charts built with HTML5 canvas
+* [apexcharts.js](https://github.com/apexcharts/apexcharts.js) ⭐ 15,127 | 🐛 331 | 🌐 JavaScript | 📅 2026-08-15 - A JavaScript Chart Library with simple API.
+* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,138 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-14 - Graphs / Network diagram library built with canvas.
+* [μPlot](https://github.com/leeoniya/uPlot) ⭐ 10,411 | 🐛 149 | 🌐 JavaScript | 📅 2026-04-22 - A small (< 25 KB min), fast chart for time series, lines, areas, ohlc & bars.
+* [Chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-08-15 - JavaScript charts with one line of Ruby.
+* [dygraphs](https://github.com/danvk/dygraphs) ⭐ 3,241 | 🐛 264 | 🌐 JavaScript | 📅 2026-07-29 - Interactive zoomable time series charts.
 * [Plottable](https://github.com/palantir/plottable) ⭐ 3,109 | 🐛 330 | 🌐 TypeScript | 📅 2025-09-08 - Library with OOP style syntax to build charts.
 * [Smoothie Charts](https://github.com/joewalnes/smoothie) ⭐ 2,277 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-08 - JavaScript charts for realtime streaming data.
 * [QuickChart](https://github.com/typpo/quickchart) ⭐ 2,049 | 🐛 43 | 🌐 JavaScript | 📅 2024-09-21 - Web API that renders static chart images.
@@ -93,7 +93,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 ### React
 
 * [nivo](https://github.com/plouc/nivo) ⭐ 14,085 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-21 - React components to easily build dataviz apps, built on top of D3.
-* [Victory](https://github.com/FormidableLabs/victory) ⭐ 11,243 | 🐛 89 | 🌐 TypeScript | 📅 2025-12-19 - A collection of composable React components for building interactive data visualizations
+* [Victory](https://github.com/FormidableLabs/victory) ⭐ 11,244 | 🐛 90 | 🌐 TypeScript | 📅 2025-12-19 - A collection of composable React components for building interactive data visualizations
 * [react-vis](https://github.com/uber/react-vis) ⭐ 8,786 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - a composable visualization system by Uber
 * [react-vis](https://github.com/uber-common/react-vis) ⭐ 8,786 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - A collection of React components to render common data visualization charts
 * [react-chart-js](https://github.com/jerairrest/react-chartjs-2) ⭐ 6,942 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-14 - React wrapper for Chart.js
@@ -115,4 +115,4 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
