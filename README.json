@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T17:35:35Z",
+            "last_commit": "2026-08-17T22:27:30Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18294
+            "stars": 18293
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-12T11:55:01Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 16979
+            "stars": 16991
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T18:17:08Z",
+            "last_commit": "2026-08-18T01:51:48Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
             "stars": 15127
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:36:32Z",
+            "last_commit": "2026-08-18T07:44:00Z",
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12139
+            "stars": 12140
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-04-22T01:06:38Z",
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10416
+            "stars": 10421
           }
         },
         {
@@ -331,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:05:30.396Z",
+    "last_updated": "2026-08-18T09:58:11.908Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
     "enhanced_repository": "enhansome/enhansome-charting",
