@@ -15,7 +15,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67092
+            "stars": 67093
           }
         },
         {
@@ -343,8 +343,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:58:26.304Z",
+    "last_updated": "2026-08-19T12:21:09.073Z",
     "original_repository": "zingchart/awesome-charting",
+    "original_repository_id": 52045536,
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
     "enhanced_repository": "enhansome/enhansome-charting",
     "enhanced_repository_description": null,

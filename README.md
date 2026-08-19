@@ -12,7 +12,7 @@ Brought to you by
 
 A declarative, efficient, and simple JavaScript library for building responsive charts
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,596 | 🐛 102 | 📅 2026-08-18 [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,657 | 🐛 102 | 📅 2026-08-18 [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
 **Table of Contents**
 
@@ -35,8 +35,8 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ## Free and Open Source Libraries
 
-* [ECharts](https://github.com/ecomfe/echarts) ⭐ 67,092 | 🐛 1,555 | 🌐 TypeScript | 📅 2026-08-04 - A powerful charting and visualization library for browser.
-* [Plotly](https://github.com/plotly/plotly.js) ⭐ 18,295 | 🐛 847 | 🌐 JavaScript | 📅 2026-08-18 - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
+* [ECharts](https://github.com/ecomfe/echarts) ⭐ 67,093 | 🐛 1,555 | 🌐 TypeScript | 📅 2026-08-04 - A powerful charting and visualization library for browser.
+* [Plotly](https://github.com/plotly/plotly.js) ⭐ 18,295 | 🐛 849 | 🌐 JavaScript | 📅 2026-08-18 - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
 * [lightweight-charts](https://github.com/tradingview/lightweight-charts) ⭐ 16,996 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-12 - Financial lightweight charts built with HTML5 canvas
 * [apexcharts.js](https://github.com/apexcharts/apexcharts.js) ⭐ 15,128 | 🐛 328 | 🌐 JavaScript | 📅 2026-08-18 - A JavaScript Chart Library with simple API.
 * [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,140 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-18 - Graphs / Network diagram library built with canvas.
