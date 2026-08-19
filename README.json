@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9185792,
             "language": "TypeScript",
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67089
+            "stars": 67092
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45646037,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T22:27:30Z",
+            "last_commit": "2026-08-18T23:17:02Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18293
+            "stars": 18295
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188438191,
             "language": "TypeScript",
             "last_commit": "2026-08-12T11:55:01Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 16991
+            "stars": 16996
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142177378,
             "language": "JavaScript",
             "last_commit": "2026-08-18T01:51:48Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15127
+            "stars": 15128
           }
         },
         {
@@ -66,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3687489,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:44:00Z",
+            "last_commit": "2026-08-18T15:37:05Z",
             "owner": "jacomyal",
             "repo": "sigma.js",
             "stars": 12140
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211381955,
             "language": "JavaScript",
             "last_commit": "2026-04-22T01:06:38Z",
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10421
+            "stars": 10422
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9906653,
             "language": "Ruby",
             "last_commit": "2026-08-15T21:05:19Z",
             "owner": "ankane",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383715,
             "language": "JavaScript",
             "last_commit": "2026-07-29T00:39:44Z",
             "owner": "danvk",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16149854,
             "language": "TypeScript",
             "last_commit": "2025-09-08T15:43:09Z",
             "owner": "palantir",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828375,
             "language": "JavaScript",
             "last_commit": "2023-01-08T10:09:30Z",
             "owner": "joewalnes",
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173803565,
             "language": "JavaScript",
             "last_commit": "2024-09-21T06:17:08Z",
             "owner": "typpo",
             "repo": "quickchart",
-            "stars": 2049
+            "stars": 2050
           }
         },
         {
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14607450,
             "language": "JavaScript",
             "last_commit": "2022-03-03T18:34:09Z",
             "owner": "frewsxcv",
@@ -178,160 +190,160 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50356584,
             "language": "HTML",
             "last_commit": "2016-02-03T16:45:47Z",
             "owner": "EmpriseCorporation",
             "repo": "EJSCharts",
             "stars": 34
           }
-        },
-        {
-          "node_type": "item",
-          "title": "uvCharts",
-          "description": "JavaScript Charting library built using d3.js",
-          "children": []
         }
       ],
       "title": "Free and Open Source Libraries"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "n3-charts",
+              "description": "Easy to use library written with AngularJS, rendering charts with D3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9873034,
+                "language": "TypeScript",
+                "last_commit": "2022-03-01T20:13:41Z",
+                "owner": "n3-charts",
+                "repo": "line-chart",
+                "stars": 1196
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Angular"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nivo",
+              "description": "React components to easily build dataviz apps, built on top of D3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56363563,
+                "language": "TypeScript",
+                "last_commit": "2026-07-21T02:46:40Z",
+                "owner": "plouc",
+                "repo": "nivo",
+                "stars": 14085
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Victory",
+              "description": "A collection of composable React components for building interactive data visualizations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38460192,
+                "language": "TypeScript",
+                "last_commit": "2025-12-19T23:11:18Z",
+                "owner": "FormidableLabs",
+                "repo": "victory",
+                "stars": 11241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-vis",
+              "description": "a composable visualization system by Uber",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52304362,
+                "language": "JavaScript",
+                "last_commit": "2024-12-18T22:24:34Z",
+                "owner": "uber",
+                "repo": "react-vis",
+                "stars": 8784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-vis",
+              "description": "A collection of React components to render common data visualization charts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52304362,
+                "language": "JavaScript",
+                "last_commit": "2024-12-18T22:24:34Z",
+                "owner": "uber",
+                "repo": "react-vis",
+                "stars": 8784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-chart-js",
+              "description": "React wrapper for Chart.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58237167,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T22:54:04Z",
+                "owner": "reactchartjs",
+                "repo": "react-chartjs-2",
+                "stars": 6942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-d3",
+              "description": "Charting library that relies on React for generating SVG markup and d3 to calculate path values.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25973357,
+                "language": "JavaScript",
+                "last_commit": "2016-06-07T08:22:56Z",
+                "owner": "esbullington",
+                "repo": "react-d3",
+                "stars": 1741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-muze",
+              "description": "React wrapper for muze (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302344861,
+                "language": "TypeScript",
+                "last_commit": "2020-10-16T06:55:53Z",
+                "owner": "chartshq",
+                "repo": "react-muze",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React"
+        }
+      ],
       "title": "Framework-Specific Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "n3-charts",
-          "description": "Easy to use library written with AngularJS, rendering charts with D3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-01T20:13:41Z",
-            "owner": "n3-charts",
-            "repo": "line-chart",
-            "stars": 1196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Angular-scale",
-          "description": "Simple and lightweight library for creating line charts",
-          "children": []
-        }
-      ],
-      "title": "Angular"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nivo",
-          "description": "React components to easily build dataviz apps, built on top of D3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-21T02:46:40Z",
-            "owner": "plouc",
-            "repo": "nivo",
-            "stars": 14085
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Victory",
-          "description": "A collection of composable React components for building interactive data visualizations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-19T23:11:18Z",
-            "owner": "FormidableLabs",
-            "repo": "victory",
-            "stars": 11241
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-vis",
-          "description": "a composable visualization system by Uber",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-18T22:24:34Z",
-            "owner": "uber",
-            "repo": "react-vis",
-            "stars": 8784
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-vis",
-          "description": "A collection of React components to render common data visualization charts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-18T22:24:34Z",
-            "owner": "uber",
-            "repo": "react-vis",
-            "stars": 8784
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-chart-js",
-          "description": "React wrapper for Chart.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T22:54:04Z",
-            "owner": "reactchartjs",
-            "repo": "react-chartjs-2",
-            "stars": 6942
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-d3",
-          "description": "Charting library that relies on React for generating SVG markup and d3 to calculate path values.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-06-07T08:22:56Z",
-            "owner": "esbullington",
-            "repo": "react-d3",
-            "stars": 1741
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-muze",
-          "description": "React wrapper for muze (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-10-16T06:55:53Z",
-            "owner": "chartshq",
-            "repo": "react-muze",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "React"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:58:11.908Z",
+    "last_updated": "2026-08-19T09:58:26.304Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
     "enhanced_repository": "enhansome/enhansome-charting",
