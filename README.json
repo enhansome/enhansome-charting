@@ -15,7 +15,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67104
+            "stars": 67119
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 45646037,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T14:13:58Z",
+            "last_commit": "2026-08-21T20:32:39Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18297
+            "stars": 18296
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 188438191,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T11:55:01Z",
+            "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17011
+            "stars": 17024
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 142177378,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T06:19:06Z",
+            "last_commit": "2026-08-21T17:39:54Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15130
+            "stars": 15131
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T15:27:58Z",
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12140
+            "stars": 12143
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-22T01:06:38Z",
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10431
+            "stars": 10436
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-29T00:39:44Z",
             "owner": "danvk",
             "repo": "dygraphs",
-            "stars": 3240
+            "stars": 3241
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-09-21T06:17:08Z",
             "owner": "typpo",
             "repo": "quickchart",
-            "stars": 2050
+            "stars": 2053
           }
         },
         {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-07-21T02:46:40Z",
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14085
+                "stars": 14088
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2024-12-18T22:24:34Z",
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8786
+                "stars": 8787
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2024-12-18T22:24:34Z",
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8786
+                "stars": 8787
               }
             },
             {
@@ -315,7 +315,7 @@
                 "last_commit": "2016-06-07T08:22:56Z",
                 "owner": "esbullington",
                 "repo": "react-d3",
-                "stars": 1741
+                "stars": 1742
               }
             },
             {
@@ -343,7 +343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:00:30.719Z",
+    "last_updated": "2026-08-22T09:51:23.051Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_id": 52045536,
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
