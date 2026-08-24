@@ -15,7 +15,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67125
+            "stars": 67134
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T22:59:53Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18296
+            "stars": 18298
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17037
+            "stars": 17048
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 142177378,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T17:39:54Z",
+            "last_commit": "2026-08-23T12:58:25Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15132
+            "stars": 15133
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-22T01:06:38Z",
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10439
+            "stars": 10446
           }
         },
         {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-07-21T02:46:40Z",
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14088
+                "stars": 14087
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2025-12-19T23:11:18Z",
                 "owner": "FormidableLabs",
                 "repo": "victory",
-                "stars": 11240
+                "stars": 11241
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2024-12-18T22:24:34Z",
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8787
+                "stars": 8788
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2024-12-18T22:24:34Z",
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8787
+                "stars": 8788
               }
             },
             {
@@ -343,7 +343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:52:33.689Z",
+    "last_updated": "2026-08-24T10:10:32.631Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_id": 52045536,
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
