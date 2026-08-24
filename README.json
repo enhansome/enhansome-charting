@@ -15,7 +15,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67134
+            "stars": 67137
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17048
+            "stars": 17050
           }
         },
         {
@@ -230,6 +230,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "lit-line",
+              "description": "{fast, small, interactive, fully responsive} Line Chart web component build on top of lit-html.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309348946,
+                "language": "TypeScript",
+                "last_commit": "2024-12-18T10:53:32Z",
+                "owner": "apinet",
+                "repo": "lit-line",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lit-html"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "nivo",
               "description": "React components to easily build dataviz apps, built on top of D3.",
               "children": [],
@@ -240,7 +262,7 @@
                 "last_commit": "2026-07-21T02:46:40Z",
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14087
+                "stars": 14088
               }
             },
             {
@@ -343,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:10:32.631Z",
+    "last_updated": "2026-08-24T14:03:57.453Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_id": 52045536,
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
