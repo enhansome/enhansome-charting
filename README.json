@@ -15,7 +15,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67147
+            "stars": 67148
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 142177378,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T21:02:03Z",
+            "last_commit": "2026-08-25T09:48:10Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
             "stars": 15133
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-22T01:06:38Z",
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10447
+            "stars": 10448
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-09-08T15:43:09Z",
             "owner": "palantir",
             "repo": "plottable",
-            "stars": 3109
+            "stars": 3110
           }
         },
         {
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:01.263Z",
+    "last_updated": "2026-08-25T10:00:46.016Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_id": 52045536,
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
