@@ -15,7 +15,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67148
+            "stars": 67151
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17058
+            "stars": 17068
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-25T09:48:10Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15133
+            "stars": 15132
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T15:27:58Z",
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12144
+            "stars": 12148
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-22T01:06:38Z",
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10448
+            "stars": 10451
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-29T00:39:44Z",
             "owner": "danvk",
             "repo": "dygraphs",
-            "stars": 3241
+            "stars": 3240
           }
         },
         {
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-20T15:36:44Z",
                 "owner": "reactchartjs",
                 "repo": "react-chartjs-2",
-                "stars": 6940
+                "stars": 6939
               }
             },
             {
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:00:46.016Z",
+    "last_updated": "2026-08-26T10:05:51.713Z",
     "original_repository": "zingchart/awesome-charting",
     "original_repository_id": 52045536,
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
