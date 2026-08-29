@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+            "homepage": "https://echarts.apache.org",
             "id": 9185792,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T09:07:09Z",
+            "open_issues": 1525,
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67173
+            "stars": 67174,
+            "topics": [
+              "apache",
+              "canvas",
+              "charting-library",
+              "charts",
+              "data-visualization",
+              "data-viz",
+              "echarts",
+              "svg",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -26,12 +41,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source JavaScript charting library behind Plotly and Dash",
+            "homepage": "https://plotly.com/javascript/",
             "id": 45646037,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:38:30Z",
+            "open_issues": 772,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18306
+            "stars": 18306,
+            "topics": [
+              "charting-library",
+              "charts",
+              "d3",
+              "data-visualization",
+              "plotly",
+              "plotly-dash",
+              "regl",
+              "visualization",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -42,12 +72,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performant financial charts built with HTML5 canvas",
+            "homepage": "https://www.tradingview.com/lightweight-charts/",
             "id": 188438191,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T13:46:51Z",
+            "open_issues": 126,
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17112
+            "stars": 17112,
+            "topics": [
+              "canvas",
+              "charting",
+              "charting-library",
+              "charts",
+              "finance",
+              "financial-charting-library",
+              "html5-charts",
+              "javascript",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -58,12 +103,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 Interactive JavaScript Charts built on SVG",
+            "homepage": "https://apexcharts.com",
             "id": 142177378,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:11:17Z",
+            "open_issues": 309,
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15142
+            "stars": 15143,
+            "topics": [
+              "charts",
+              "data-visualization",
+              "graphs",
+              "interactive",
+              "javascript",
+              "svg",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -74,12 +132,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges",
+            "homepage": "https://www.sigmajs.org/",
             "id": 3687489,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T15:27:58Z",
+            "open_issues": 14,
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12148
+            "stars": 12149,
+            "topics": [
+              "data-visualization",
+              "graph",
+              "graph-drawing",
+              "graph-drawing-framework",
+              "graphs",
+              "javascript",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -90,12 +161,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📈 A small, fast chart for time series, lines, areas, ohlc & bars",
+            "homepage": null,
             "id": 211381955,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-22T01:06:38Z",
+            "open_issues": 149,
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10456
+            "stars": 10458,
+            "topics": [
+              "analytics",
+              "chart",
+              "charts",
+              "data-visualization",
+              "graph",
+              "graphs",
+              "lightweight",
+              "line-chart",
+              "ohlc",
+              "performance",
+              "plot",
+              "plotting",
+              "streaming",
+              "time-series",
+              "timeseries",
+              "trend-analysis"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -106,12 +199,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create beautiful JavaScript charts with one line of Ruby",
+            "homepage": "https://chartkick.com",
             "id": 9906653,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-15T21:05:19Z",
+            "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6528
+            "stars": 6528,
+            "topics": [
+              "chartjs",
+              "charts",
+              "google-charts",
+              "highcharts",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -122,12 +226,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive visualizations of time series using JavaScript and the HTML canvas tag",
+            "homepage": "http://dygraphs.com",
             "id": 383715,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T00:39:44Z",
+            "open_issues": 264,
             "owner": "danvk",
             "repo": "dygraphs",
-            "stars": 3240
+            "stars": 3240,
+            "topics": [
+              "canvas",
+              "charting-library",
+              "dygraphs",
+              "timeseries",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -138,12 +253,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bar_chart: A library of modular chart components built on D3",
+            "homepage": "http://plottablejs.org/",
             "id": 16149854,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-08T15:43:09Z",
+            "open_issues": 330,
             "owner": "palantir",
             "repo": "plottable",
-            "stars": 3110
+            "stars": 3110,
+            "topics": [
+              "chart",
+              "chart-component",
+              "charting-library",
+              "d3",
+              "flexible",
+              "javascript",
+              "octo-correct-managed",
+              "plots",
+              "plottable",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -154,12 +285,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smoothie Charts: smooooooth JavaScript charts for realtime streaming data",
+            "homepage": "http://smoothiecharts.org",
             "id": 828375,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-08T10:09:30Z",
+            "open_issues": 28,
             "owner": "joewalnes",
             "repo": "smoothie",
-            "stars": 2277
+            "stars": 2277,
+            "topics": [
+              "chart",
+              "chart-component",
+              "charting-library",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -170,12 +311,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chart image and QR code web API",
+            "homepage": "https://quickchart.io/",
             "id": 173803565,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-09-21T06:17:08Z",
+            "open_issues": 43,
             "owner": "typpo",
             "repo": "quickchart",
-            "stars": 2053
+            "stars": 2053,
+            "topics": [
+              "chart-api",
+              "chart-image",
+              "image-charts"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -186,12 +336,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D graph viewer powered by WebGL (three.js)",
+            "homepage": "https://www.npmjs.com/package/graphosaurus",
             "id": 14607450,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2022-03-03T18:34:09Z",
+            "open_issues": 22,
             "owner": "frewsxcv",
             "repo": "graphosaurus",
-            "stars": 391
+            "stars": 391,
+            "topics": [
+              "graph",
+              "javascript",
+              "threejs",
+              "visualization",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         },
@@ -202,12 +363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emprise Javascript Charts",
+            "homepage": "http://www.ejschart.com/",
             "id": 50356584,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2016-02-03T16:45:47Z",
+            "open_issues": 0,
             "owner": "EmpriseCorporation",
             "repo": "EJSCharts",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:16.233Z"
         }
@@ -226,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome charts for AngularJS.",
+                "homepage": "http://n3-charts.github.io/line-chart/",
                 "id": 9873034,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-03-01T20:13:41Z",
+                "open_issues": 53,
                 "owner": "n3-charts",
                 "repo": "line-chart",
-                "stars": 1196
+                "stars": 1196,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             }
@@ -249,12 +420,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "lit-line is a minimal line chart web component for modern websites.",
+                "homepage": "https://apinet.github.io",
                 "id": 309348946,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-12-18T10:53:32Z",
+                "open_issues": 1,
                 "owner": "apinet",
                 "repo": "lit-line",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "chart",
+                  "charting-library",
+                  "dataviz",
+                  "lit",
+                  "lit-html",
+                  "svg",
+                  "timeline",
+                  "webcomponent"
+                ]
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             }
@@ -272,12 +457,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries",
+                "homepage": "https://nivo.rocks",
                 "id": 56363563,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T02:46:40Z",
+                "open_issues": 50,
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14092
+                "stars": 14092,
+                "topics": [
+                  "canvas",
+                  "charts",
+                  "components",
+                  "d3js",
+                  "dataviz",
+                  "isomorphic",
+                  "react",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             },
@@ -288,12 +487,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of composable React components for building interactive data visualizations",
+                "homepage": "http://commerce.nearform.com/open-source/victory/",
                 "id": 38460192,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-19T23:11:18Z",
+                "open_issues": 91,
                 "owner": "FormidableLabs",
                 "repo": "victory",
-                "stars": 11243
+                "stars": 11243,
+                "topics": [
+                  "charts",
+                  "d3",
+                  "data-visualization",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             },
@@ -304,12 +513,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Visualization Components",
+                "homepage": "https://uber.github.io/react-vis",
                 "id": 52304362,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-18T22:24:34Z",
+                "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8789
+                "stars": 8789,
+                "topics": [
+                  "chart",
+                  "charting-library",
+                  "data-visualization",
+                  "react",
+                  "uber",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             },
@@ -320,12 +541,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Visualization Components",
+                "homepage": "https://uber.github.io/react-vis",
                 "id": 52304362,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-18T22:24:34Z",
+                "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8789
+                "stars": 8789,
+                "topics": [
+                  "chart",
+                  "charting-library",
+                  "data-visualization",
+                  "react",
+                  "uber",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             },
@@ -336,12 +569,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React components for Chart.js, the most popular charting library",
+                "homepage": "https://react-chartjs-2.js.org",
                 "id": 58237167,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T23:54:53Z",
+                "open_issues": 108,
                 "owner": "reactchartjs",
                 "repo": "react-chartjs-2",
-                "stars": 6941
+                "stars": 6941,
+                "topics": [
+                  "chart",
+                  "charting-library",
+                  "chartjs",
+                  "chartjs-2",
+                  "charts",
+                  "data-visualization",
+                  "datavis",
+                  "datavisualization",
+                  "dataviz-tools",
+                  "react",
+                  "reactjs",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             },
@@ -352,12 +603,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Modular React charts made with d3.js",
+                "homepage": "https://reactiva.github.io/react-d3-website/",
                 "id": 25973357,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-06-07T08:22:56Z",
+                "open_issues": 14,
                 "owner": "esbullington",
                 "repo": "react-d3",
-                "stars": 1742
+                "stars": 1742,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             },
@@ -368,12 +624,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React SDK for Muze charting Library",
+                "homepage": "https://muzejs.org/docs/wa/latest/muze/integrations/react-muze/introduction",
                 "id": 302344861,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-10-16T06:55:53Z",
+                "open_issues": 4,
                 "owner": "chartshq",
                 "repo": "react-muze",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "charting-application",
+                  "charts",
+                  "datamodel",
+                  "javascript-charts",
+                  "muze",
+                  "react",
+                  "react-applications",
+                  "react-bindings",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
             }
@@ -387,15 +658,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:58:16.233Z",
+    "last_updated": "2026-08-29T04:26:47.496Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",
+      "homepage": null,
       "id": 52045536,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-02-18T16:12:11Z",
+      "open_issues": 11,
       "owner": "zingchart",
       "repo": "awesome-charting",
-      "stars": 2110
+      "stars": 2110,
+      "topics": [
+        "awesome-list",
+        "charts",
+        "commercial",
+        "javascript",
+        "open-source"
+      ]
     },
     "original_repository_sha": "0047276add8f2809e9130b45c227d546750ca96b",
     "enhanced_repository": "enhansome/enhansome-charting",
