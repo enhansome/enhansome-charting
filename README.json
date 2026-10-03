@@ -15,11 +15,11 @@
             "id": 9185792,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T04:13:49Z",
-            "open_issues": 1497,
+            "last_commit": "2026-10-03T08:07:25Z",
+            "open_issues": 1498,
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67440,
+            "stars": 67441,
             "topics": [
               "apache",
               "canvas",
@@ -46,11 +46,11 @@
             "id": 45646037,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:57:33Z",
+            "last_commit": "2026-10-03T13:26:41Z",
             "open_issues": 805,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18353,
+            "stars": 18355,
             "topics": [
               "charting-library",
               "charts",
@@ -81,7 +81,7 @@
             "open_issues": 132,
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17454,
+            "stars": 17460,
             "topics": [
               "canvas",
               "charting",
@@ -109,7 +109,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T15:48:54Z",
-            "open_issues": 299,
+            "open_issues": 300,
             "owner": "apexcharts",
             "repo": "apexcharts.js",
             "stars": 15168,
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:03.830Z",
+    "last_updated": "2026-10-03T14:23:11.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",
