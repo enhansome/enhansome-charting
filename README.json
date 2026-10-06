@@ -19,7 +19,7 @@
             "open_issues": 1488,
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67458,
+            "stars": 67459,
             "topics": [
               "apache",
               "canvas",
@@ -77,11 +77,11 @@
             "id": 188438191,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:42:20Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-06T14:49:49Z",
+            "open_issues": 131,
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17485,
+            "stars": 17491,
             "topics": [
               "canvas",
               "charting",
@@ -170,7 +170,7 @@
             "open_issues": 135,
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10545,
+            "stars": 10547,
             "topics": [
               "analytics",
               "chart",
@@ -258,8 +258,8 @@
             "id": 16149854,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T20:42:35Z",
-            "open_issues": 333,
+            "last_commit": "2026-10-06T16:05:41Z",
+            "open_issues": 332,
             "owner": "palantir",
             "repo": "plottable",
             "stars": 3128,
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:55:17.854Z",
+    "last_updated": "2026-10-06T16:07:41.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",
