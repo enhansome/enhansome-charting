@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-04T10:59:25Z",
-            "open_issues": 1491,
+            "open_issues": 1488,
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67466,
+            "stars": 67468,
             "topics": [
               "apache",
               "canvas",
@@ -47,10 +47,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T14:18:55Z",
-            "open_issues": 801,
+            "open_issues": 804,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18356,
+            "stars": 18355,
             "topics": [
               "charting-library",
               "charts",
@@ -77,11 +77,11 @@
             "id": 188438191,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:31:24Z",
+            "last_commit": "2026-10-09T23:02:21Z",
             "open_issues": 125,
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17522,
+            "stars": 17526,
             "topics": [
               "canvas",
               "charting",
@@ -112,7 +112,7 @@
             "open_issues": 295,
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15173,
+            "stars": 15174,
             "topics": [
               "charts",
               "data-visualization",
@@ -141,7 +141,7 @@
             "open_issues": 7,
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12185,
+            "stars": 12184,
             "topics": [
               "data-visualization",
               "graph",
@@ -166,11 +166,11 @@
             "id": 211381955,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T20:44:56Z",
+            "last_commit": "2026-10-10T07:36:09Z",
             "open_issues": 137,
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10548,
+            "stars": 10554,
             "topics": [
               "analytics",
               "chart",
@@ -258,7 +258,7 @@
             "id": 16149854,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T18:08:12Z",
+            "last_commit": "2026-10-09T18:45:14Z",
             "open_issues": 336,
             "owner": "palantir",
             "repo": "plottable",
@@ -320,7 +320,7 @@
             "open_issues": 43,
             "owner": "typpo",
             "repo": "quickchart",
-            "stars": 2058,
+            "stars": 2059,
             "topics": [
               "chart-api",
               "chart-image",
@@ -466,7 +466,7 @@
                 "open_issues": 53,
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14106,
+                "stars": 14108,
                 "topics": [
                   "canvas",
                   "charts",
@@ -522,7 +522,7 @@
                 "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8786,
+                "stars": 8787,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -550,7 +550,7 @@
                 "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8786,
+                "stars": 8787,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:26:45.296Z",
+    "last_updated": "2026-10-10T15:31:04.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",
