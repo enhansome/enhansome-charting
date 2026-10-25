@@ -4,7 +4,7 @@
 
 A curated list of chart and dataviz resources that developers may find useful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
 
-*Inspired by the [Awesome](https://github.com/sindresorhus/awesome) ⭐ 523,927 | 🐛 105 | 📅 2026-09-02 thing.*
+*Inspired by the [Awesome](https://github.com/sindresorhus/awesome) ⭐ 524,509 | 🐛 105 | 📅 2026-09-02 thing.*
 
 Brought to you by
 
@@ -12,7 +12,7 @@ Brought to you by
 
 A declarative, efficient, and simple JavaScript library for building responsive charts
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,927 | 🐛 105 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,509 | 🐛 105 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
 **Table of Contents**
 
@@ -35,12 +35,12 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ## Free and Open Source Libraries
 
-* [ECharts](https://github.com/ecomfe/echarts) ⭐ 67,581 | 🐛 1,486 | 🌐 TypeScript | 📅 2026-10-13 - A powerful charting and visualization library for browser.
-* [Plotly](https://github.com/plotly/plotly.js) ⭐ 18,367 | 🐛 802 | 🌐 JavaScript | 📅 2026-10-23 - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
-* [lightweight-charts](https://github.com/tradingview/lightweight-charts) ⭐ 17,673 | 🐛 127 | 🌐 TypeScript | 📅 2026-10-23 - Financial lightweight charts built with HTML5 canvas
-* [apexcharts.js](https://github.com/apexcharts/apexcharts.js) ⭐ 15,182 | 🐛 284 | 🌐 JavaScript | 📅 2026-10-24 - A JavaScript Chart Library with simple API.
+* [ECharts](https://github.com/ecomfe/echarts) ⭐ 67,594 | 🐛 1,486 | 🌐 TypeScript | 📅 2026-10-13 - A powerful charting and visualization library for browser.
+* [Plotly](https://github.com/plotly/plotly.js) ⭐ 18,369 | 🐛 802 | 🌐 JavaScript | 📅 2026-10-23 - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
+* [lightweight-charts](https://github.com/tradingview/lightweight-charts) ⭐ 17,682 | 🐛 127 | 🌐 TypeScript | 📅 2026-10-23 - Financial lightweight charts built with HTML5 canvas
+* [apexcharts.js](https://github.com/apexcharts/apexcharts.js) ⭐ 15,182 | 🐛 278 | 🌐 JavaScript | 📅 2026-10-25 - A JavaScript Chart Library with simple API.
 * [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,201 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-16 - Graphs / Network diagram library built with canvas.
-* [μPlot](https://github.com/leeoniya/uPlot) ⭐ 10,580 | 🐛 133 | 🌐 JavaScript | 📅 2026-10-24 - A small (< 25 KB min), fast chart for time series, lines, areas, ohlc & bars.
+* [μPlot](https://github.com/leeoniya/uPlot) ⭐ 10,583 | 🐛 133 | 🌐 JavaScript | 📅 2026-10-25 - A small (< 25 KB min), fast chart for time series, lines, areas, ohlc & bars.
 * [Chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-10-22 - JavaScript charts with one line of Ruby.
 * [dygraphs](https://github.com/danvk/dygraphs) ⭐ 3,241 | 🐛 265 | 🌐 JavaScript | 📅 2026-07-29 - Interactive zoomable time series charts.
 * [Plottable](https://github.com/palantir/plottable) ⭐ 3,133 | 🐛 334 | 🌐 TypeScript | 📅 2026-10-09 - Library with OOP style syntax to build charts.
@@ -92,11 +92,11 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ### React
 
-* [nivo](https://github.com/plouc/nivo) ⭐ 14,120 | 🐛 56 | 🌐 TypeScript | 📅 2026-07-21 - React components to easily build dataviz apps, built on top of D3.
-* [Victory](https://github.com/FormidableLabs/victory) ⭐ 11,241 | 🐛 93 | 🌐 TypeScript | 📅 2025-12-19 - A collection of composable React components for building interactive data visualizations
-* [react-vis](https://github.com/uber/react-vis) ⭐ 8,786 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - a composable visualization system by Uber
-* [react-vis](https://github.com/uber-common/react-vis) ⭐ 8,786 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - A collection of React components to render common data visualization charts
-* [react-chart-js](https://github.com/jerairrest/react-chartjs-2) ⭐ 6,936 | 🐛 111 | 🌐 TypeScript | 📅 2026-10-23 - React wrapper for Chart.js
+* [nivo](https://github.com/plouc/nivo) ⭐ 14,121 | 🐛 56 | 🌐 TypeScript | 📅 2026-07-21 - React components to easily build dataviz apps, built on top of D3.
+* [Victory](https://github.com/FormidableLabs/victory) ⭐ 11,242 | 🐛 95 | 🌐 TypeScript | 📅 2026-10-25 - A collection of composable React components for building interactive data visualizations
+* [react-vis](https://github.com/uber/react-vis) ⭐ 8,787 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - a composable visualization system by Uber
+* [react-vis](https://github.com/uber-common/react-vis) ⭐ 8,787 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - A collection of React components to render common data visualization charts
+* [react-chart-js](https://github.com/jerairrest/react-chartjs-2) ⭐ 6,936 | 🐛 111 | 🌐 TypeScript | 📅 2026-10-24 - React wrapper for Chart.js
 * [react-d3](https://github.com/esbullington/react-d3) ⚠️ Archived - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
 * [react-muze](https://github.com/chartshq/react-muze) ⭐ 17 | 🐛 4 | 🌐 TypeScript | 📅 2020-10-16 - React wrapper for [muze](https://muzejs.org/) (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 * [vx](https://vx-demo.now.sh/) collection of reusable low-level visualization components, on top of d3
@@ -115,4 +115,4 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
