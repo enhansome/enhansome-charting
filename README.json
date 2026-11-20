@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T09:27:20Z",
-            "open_issues": 1477,
+            "open_issues": 1475,
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67755,
+            "stars": 67760,
             "topics": [
               "apache",
               "canvas",
@@ -46,11 +46,11 @@
             "id": 45646037,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T19:58:53Z",
-            "open_issues": 809,
+            "last_commit": "2026-11-20T16:36:33Z",
+            "open_issues": 810,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18384,
+            "stars": 18386,
             "topics": [
               "charting-library",
               "charts",
@@ -78,10 +78,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T14:48:17Z",
-            "open_issues": 113,
+            "open_issues": 115,
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17904,
+            "stars": 17917,
             "topics": [
               "canvas",
               "charting",
@@ -109,10 +109,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T17:15:36Z",
-            "open_issues": 281,
+            "open_issues": 282,
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15190,
+            "stars": 15189,
             "topics": [
               "charts",
               "data-visualization",
@@ -141,7 +141,7 @@
             "open_issues": 2,
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12247,
+            "stars": 12245,
             "topics": [
               "data-visualization",
               "graph",
@@ -167,10 +167,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-17T04:18:50Z",
-            "open_issues": 132,
+            "open_issues": 135,
             "owner": "leeoniya",
             "repo": "uPlot",
-            "stars": 10660,
+            "stars": 10663,
             "topics": [
               "analytics",
               "chart",
@@ -208,7 +208,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6526,
+            "stars": 6525,
             "topics": [
               "chartjs",
               "charts",
@@ -235,7 +235,7 @@
             "open_issues": 265,
             "owner": "danvk",
             "repo": "dygraphs",
-            "stars": 3241,
+            "stars": 3240,
             "topics": [
               "canvas",
               "charting-library",
@@ -262,7 +262,7 @@
             "open_issues": 335,
             "owner": "palantir",
             "repo": "plottable",
-            "stars": 3136,
+            "stars": 3133,
             "topics": [
               "chart",
               "chart-component",
@@ -294,7 +294,7 @@
             "open_issues": 28,
             "owner": "joewalnes",
             "repo": "smoothie",
-            "stars": 2276,
+            "stars": 2275,
             "topics": [
               "chart",
               "chart-component",
@@ -320,7 +320,7 @@
             "open_issues": 45,
             "owner": "typpo",
             "repo": "quickchart",
-            "stars": 2059,
+            "stars": 2058,
             "topics": [
               "chart-api",
               "chart-image",
@@ -345,7 +345,7 @@
             "open_issues": 22,
             "owner": "frewsxcv",
             "repo": "graphosaurus",
-            "stars": 391,
+            "stars": 390,
             "topics": [
               "graph",
               "javascript",
@@ -492,11 +492,11 @@
                 "id": 38460192,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T06:35:11Z",
+                "last_commit": "2026-11-20T17:54:34Z",
                 "open_issues": 95,
                 "owner": "FormidableLabs",
                 "repo": "victory",
-                "stars": 11251,
+                "stars": 11249,
                 "topics": [
                   "charts",
                   "d3",
@@ -522,7 +522,7 @@
                 "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8784,
+                "stars": 8783,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -550,7 +550,7 @@
                 "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8784,
+                "stars": 8783,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -578,7 +578,7 @@
                 "open_issues": 111,
                 "owner": "reactchartjs",
                 "repo": "react-chartjs-2",
-                "stars": 6940,
+                "stars": 6938,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -612,7 +612,7 @@
                 "open_issues": 14,
                 "owner": "esbullington",
                 "repo": "react-d3",
-                "stars": 1740,
+                "stars": 1739,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:16.233Z"
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:30:13.277Z",
+    "last_updated": "2026-11-20T17:55:49.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",
@@ -670,7 +670,7 @@
       "open_issues": 16,
       "owner": "zingchart",
       "repo": "awesome-charting",
-      "stars": 2123,
+      "stars": 2122,
       "topics": [
         "awesome-list",
         "charts",
