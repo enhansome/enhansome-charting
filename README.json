@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T09:27:20Z",
-            "open_issues": 1469,
+            "open_issues": 1476,
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67776,
+            "stars": 67787,
             "topics": [
               "apache",
               "canvas",
@@ -46,11 +46,11 @@
             "id": 45646037,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T16:36:33Z",
-            "open_issues": 810,
+            "last_commit": "2026-11-23T17:55:31Z",
+            "open_issues": 815,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18386,
+            "stars": 18388,
             "topics": [
               "charting-library",
               "charts",
@@ -81,7 +81,7 @@
             "open_issues": 117,
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17942,
+            "stars": 17957,
             "topics": [
               "canvas",
               "charting",
@@ -109,10 +109,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T17:15:36Z",
-            "open_issues": 283,
+            "open_issues": 284,
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15188,
+            "stars": 15189,
             "topics": [
               "charts",
               "data-visualization",
@@ -141,7 +141,7 @@
             "open_issues": 2,
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12246,
+            "stars": 12249,
             "topics": [
               "data-visualization",
               "graph",
@@ -262,7 +262,7 @@
             "open_issues": 336,
             "owner": "palantir",
             "repo": "plottable",
-            "stars": 3133,
+            "stars": 3134,
             "topics": [
               "chart",
               "chart-component",
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:17:10.583Z",
+    "last_updated": "2026-11-23T21:36:46.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",

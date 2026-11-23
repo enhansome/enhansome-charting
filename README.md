@@ -4,7 +4,7 @@
 
 A curated list of chart and dataviz resources that developers may find useful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
 
-*Inspired by the [Awesome](https://github.com/sindresorhus/awesome) ⭐ 540,959 | 🐛 103 | 📅 2026-09-02 thing.*
+*Inspired by the [Awesome](https://github.com/sindresorhus/awesome) ⭐ 541,614 | 🐛 103 | 📅 2026-09-02 thing.*
 
 Brought to you by
 
@@ -12,7 +12,7 @@ Brought to you by
 
 A declarative, efficient, and simple JavaScript library for building responsive charts
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,959 | 🐛 103 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,614 | 🐛 103 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
 **Table of Contents**
 
@@ -35,15 +35,15 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ## Free and Open Source Libraries
 
-* [ECharts](https://github.com/ecomfe/echarts) ⭐ 67,776 | 🐛 1,469 | 🌐 TypeScript | 📅 2026-10-13 - A powerful charting and visualization library for browser.
-* [Plotly](https://github.com/plotly/plotly.js) ⭐ 18,386 | 🐛 810 | 🌐 JavaScript | 📅 2026-11-20 - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
-* [lightweight-charts](https://github.com/tradingview/lightweight-charts) ⭐ 17,942 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-18 - Financial lightweight charts built with HTML5 canvas
-* [apexcharts.js](https://github.com/apexcharts/apexcharts.js) ⭐ 15,188 | 🐛 283 | 🌐 JavaScript | 📅 2026-11-18 - A JavaScript Chart Library with simple API.
-* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,246 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 - Graphs / Network diagram library built with canvas.
+* [ECharts](https://github.com/ecomfe/echarts) ⭐ 67,787 | 🐛 1,476 | 🌐 TypeScript | 📅 2026-10-13 - A powerful charting and visualization library for browser.
+* [Plotly](https://github.com/plotly/plotly.js) ⭐ 18,388 | 🐛 815 | 🌐 JavaScript | 📅 2026-11-23 - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
+* [lightweight-charts](https://github.com/tradingview/lightweight-charts) ⭐ 17,957 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-18 - Financial lightweight charts built with HTML5 canvas
+* [apexcharts.js](https://github.com/apexcharts/apexcharts.js) ⭐ 15,189 | 🐛 284 | 🌐 JavaScript | 📅 2026-11-18 - A JavaScript Chart Library with simple API.
+* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,249 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 - Graphs / Network diagram library built with canvas.
 * [μPlot](https://github.com/leeoniya/uPlot) ⭐ 10,667 | 🐛 133 | 🌐 JavaScript | 📅 2026-11-22 - A small (< 25 KB min), fast chart for time series, lines, areas, ohlc & bars.
 * [Chartkick](https://github.com/ankane/chartkick) ⭐ 6,524 | 🐛 7 | 🌐 Ruby | 📅 2026-10-22 - JavaScript charts with one line of Ruby.
 * [dygraphs](https://github.com/danvk/dygraphs) ⭐ 3,240 | 🐛 265 | 🌐 JavaScript | 📅 2026-07-29 - Interactive zoomable time series charts.
-* [Plottable](https://github.com/palantir/plottable) ⭐ 3,133 | 🐛 336 | 🌐 TypeScript | 📅 2026-11-18 - Library with OOP style syntax to build charts.
+* [Plottable](https://github.com/palantir/plottable) ⭐ 3,134 | 🐛 336 | 🌐 TypeScript | 📅 2026-11-18 - Library with OOP style syntax to build charts.
 * [Smoothie Charts](https://github.com/joewalnes/smoothie) ⭐ 2,275 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-08 - JavaScript charts for realtime streaming data.
 * [QuickChart](https://github.com/typpo/quickchart) ⭐ 2,058 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-12 - Web API that renders static chart images.
 * [Graphosaurus](https://github.com/frewsxcv/graphosaurus) ⭐ 390 | 🐛 22 | 🌐 JavaScript | 📅 2022-03-03 - 3D graph viewer powered by WebGL (three.js)
@@ -115,4 +115,4 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
